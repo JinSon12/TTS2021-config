@@ -1,3 +1,4 @@
+# Newly Created
 # Dashboard Example Configuration
 Welcome to the example Dashboard configuration repository. This repository is intended to be a [submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules) of the [main Dashboard repo](https://github.com/fuseumass/dashboard). If you're reading this README we are assuming that you've decided to take the plunge and use Dashboard for your own event. Let's get started!
 
